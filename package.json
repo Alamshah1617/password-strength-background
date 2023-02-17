@@ -1,0 +1,11 @@
+{
+  "name": "day36-password-strength-background",
+  "version": "1.0.0",
+  "description": "Password Strength Background",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shah Alam",
+  "license": "ISC"
+}
